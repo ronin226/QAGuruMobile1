@@ -1,0 +1,8 @@
+/gradlew
+/gradlew.bat
+/settings.gradle
+/.gradle/
+/.idea/
+/gradle/
+/src/test/resources/config/test.properties
+
